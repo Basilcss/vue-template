@@ -4,12 +4,12 @@ Minimal code example to show how Basil.css works with Vue.js.
 
 ### in main.ts
 ```
-import "basilcss/basil.css"
+import "basilcss"
 ```
 
 ### The template
 
-```
+```js
 <template>
   <section class="row m-2 vh-100 big:m-0 fade-in">
     <div class="col-8 big:col-4 big:flex-row-center-center">
