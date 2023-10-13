@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "basilcss": "^1.0.2",
+    "basilcss": "^1.1.13",
     "vue": "^3.2.47"
   },
   "devDependencies": {
